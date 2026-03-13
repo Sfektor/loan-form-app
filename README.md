@@ -22,7 +22,7 @@ git clone https://github.com/YOUR_USERNAME/loan-application-form.git
 2. Перейти в папку проекта
 
 ```bash
-cd loan-application-form
+cd loan-form-app
 ```
 
 3. Установить зависимости
@@ -45,6 +45,6 @@ http://localhost:5173
 
 ## Автор
 
-Юркин Андрей Владимирович
+Юркин Андрей Владимирович.
 Резюме на HH.ru:
 https://izhevsk.hh.ru/resume/d94c43beff0cc544b60039ed1f314168796530
